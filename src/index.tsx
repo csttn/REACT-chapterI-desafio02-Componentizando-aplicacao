@@ -1,5 +1,12 @@
-import { render } from 'react-dom'
+import { render } from "react-dom";
 
-import { App } from './App'
+import { App } from "./App";
+import { ShowFilmsProvider } from "./context/ShowFilmsContext";
 
-render(<App />, document.getElementById('root'))
+render(
+  <ShowFilmsProvider>
+    <App />
+  </ShowFilmsProvider>,
+
+  document.getElementById("root")
+);
