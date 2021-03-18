@@ -20,9 +20,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="watchme" src=".github/logo.png" width="120px">
-</p>
+
 
 ## 🧪 Technologies
 
