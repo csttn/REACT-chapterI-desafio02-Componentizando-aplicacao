@@ -1,5 +1,5 @@
 <p align="center">
-![watchme](https://github.com/csttn/desafio02-Componentizando-aplicacao/blob/main/watchme.gif)
+  <img  src="https://github.com/csttn/desafio02-Componentizando-aplicacao/blob/main/watchme.gif" alt="License">
 </p>
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
