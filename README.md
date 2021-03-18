@@ -1,4 +1,4 @@
-![watchme](https://user-images.githubusercontent.com/43582741/110004045-c3dffc00-7cf5-11eb-9482-cacfb2786a09.gif)
+![watchme](https://github.com/csttn/desafio02-Componentizando-aplicacao/blob/main/watchme.gif)
 
 
 
