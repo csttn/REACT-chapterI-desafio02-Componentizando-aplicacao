@@ -1,7 +1,5 @@
+
 ![watchme](https://github.com/csttn/desafio02-Componentizando-aplicacao/blob/main/watchme.gif)
-
-
-
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
